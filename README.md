@@ -1,8 +1,10 @@
 # Divergent regional trends in alpine tundra productivity linked to changes in snow-free season length and summer warming.
 
-[![DOI](https://img.shields.io/badge/DOI-10.1088%2F2752--664X%2Fae6d04-blue)](https://doi.org/10.1088/2752-664X/ae6d04)
+[![DOI](https://zenodo.org/badge/1242891621.svg)](https://doi.org/10.5281/zenodo.20277502)
 [![License: MIT](https://img.shields.io/badge/LICENSE-BSD%203-green)](LICENSE)
 [![Open Access](https://img.shields.io/badge/Open%20Access-IOP%20Publishing-orange)](https://doi.org/10.1088/2752-664X/ae6d04)
+
+
 
 > **Moore, M.A., Emery, N.C., & Elmendorf, S.C.** (2026). Divergent regional trends in alpine tundra productivity linked to changes in snow-free season length and summer warming. Environmental Research: Ecology. https://doi.org/10.1088/2752-664X/ae6d04
 
